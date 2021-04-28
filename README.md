@@ -28,6 +28,10 @@ See also [this](https://github.com/hku-ect/BareConductive) repo for more informa
 
 A demo Isadora file for the use with the leapmotion (https://www.ultraleap.com/product/leap-motion-controller/). Fortunbaltely Isadora has it's own leap motion watcher, the file just show some examples of how to possible use it.
 
+## LivePainting.izz
+
+A demo Isadora file showing several possibilities of using the Live Drawing actor. See also for a tuorial here: https://support.troikatronix.com/support/solutions/articles/13000050887-how-to-use-the-live-drawing-actor-the-basics
+
 
 ## MPD2_Kinect.izz
 
