@@ -47,3 +47,7 @@ This Isadora file can be used as an example or starter file when playing around 
 
 This Isdaora file was made of a demonstration of how you can make a simple installation where a video recording is triggerd by a keyboard press through a makeymakey (https://makeymakey.com/) board. The patch wil then fillm for three seconds and play all the recorded movies one after eachother.
 
+## ENTTEC-DMX-USB_lightcontrol.izz
+
+With this Isadora file you can control DMX lighting directly using an ENTECC DMX USB PRO.
+
