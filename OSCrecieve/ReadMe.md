@@ -8,4 +8,4 @@ If you use the Isadora example and the Processing example on th esame computer m
 - Isadora sends to port 1235
 - Processing Sketch listens to port 1235
 
-This is because it you do no tlsiten to the same port in Processing as the port form which you send in Isadora you will not recieve the messages. Isadro by default sitens to port 1234 so we cannot use that port because a OSC listening port can be openend only by one program at a time.
+This is because it you do not listen to the same port in Processing as the port from which you send in Isadora you will not recieve the messages. Isadora by default listens to port 1234 so we cannot use that port because a OSC listening port can be openend only by one program at a time.
