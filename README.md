@@ -51,3 +51,16 @@ This Isdaora file was made of a demonstration of how you can make a simple insta
 
 With this Isadora file you can control DMX lighting directly using an ENTECC DMX USB PRO.
 
+## ControlPanelDemo.izz
+
+Ths file show a very simple demo of the possibilitues of the in built control panel that Isadora features.
+
+## IsadoraNetwork.izz & IsadoraNetworkListener.izz & OSCrecieve
+
+These two Isadora patches and the Processing sketch show a very bare bones demo of the possibility so send data from one computer to another or between two Isadora patches or Isadora and Processing using OSC (https://en.wikipedia.org/wiki/Open_Sound_Control) or NDI (https://en.wikipedia.org/wiki/Network_Device_Interface)
+
+## MidiDemo.izz
+
+This is a demo how you can use Midi (https://blog.landr.com/what-is-midi/) Devices in Isadora the demo is built to use with a Akai LPD8 but cna be altered to use any midi device.
+
+
