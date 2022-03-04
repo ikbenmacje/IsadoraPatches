@@ -51,6 +51,11 @@ This Isdaora file was made of a demonstration of how you can make a simple insta
 
 With this Isadora file you can control DMX lighting directly using an ENTECC DMX USB PRO.
 
+## controlDMXLights_QLC.izz
+
+With this Isadora file you can control DMX lighting in a decentralized way where there is one central computer wiht a USB-DMx interface running QLC+ (https://www.qlcplus.org/index.html) which listens to other computer via OSC.
+
+
 ## ControlPanelDemo.izz
 
 Ths file show a very simple demo of the possibilitues of the in built control panel that Isadora features.
