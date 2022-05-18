@@ -38,7 +38,7 @@ A demo Isadora file showing several possibilities of using the Live Drawing acto
 A demo Isadora file shwocasing how to use the kinec tin Isadora. In order to use this file you need acces to a Kinect and you have to download the Openni tracker (https://troikatronix.com/plugin/openni-tracker/) see also the tutorial file: https://troikatronix.com/plugin/openni-tracker-tutorial/ and mor einformation here: https://support.troikatronix.com/support/solutions/articles/13000069937-skeleton-tracking-in-isadora-3-with-openni-tracker
 
 
-## MPD2_mocapradius_empty.izz
+## MOCAP_basis.izz
 
 This Isadora file can be used as an example or starter file when playing around with a mocap system. This patch will assume you will recieve the MOCAP dat through OSC via de NATNET2OSCbridge (https://github.com/hku-ect/NatNet2OSCbridge). The core of this patch is the RadousCheck user actor which gives you informaton about if two points are near each other or not.
 
